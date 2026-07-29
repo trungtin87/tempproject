@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5c1b7204-dd89-4542-b791-ec56e9b815fc</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c1b7204-dd89-4542-b791-ec56e9b815fc</dc:identifier>
+        <dc:title>Fullstack Web Components</dc:title>
+        <dc:creator opf:file-as="Nate Murray" opf:role="aut">Nate Murray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-10T00:00:00+00:00</dc:date>
+        <dc:publisher>leanpub.com</dc:publisher>
+        <dc:language>vi</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Bìa sách" href="cover.jpg"/>
+    </guide>
+</package>

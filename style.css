@@ -1,0 +1,417 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.c {
+    -webkit-hyphens: none;
+    color: #408080;
+    font-family: monospace;
+    font-style: italic
+    }
+.calibre {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 1em;
+    hyphens: none;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    orphans: 2;
+    padding-left: 0;
+    padding-right: 0;
+    widows: 2
+    }
+.calibre1 {
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre2 {
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-indent: 0
+    }
+.calibre4 {
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.33em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre5 {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.66667em;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre8 {
+    display: list-item;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    padding-left: 0
+    }
+.calibre9 {
+    line-height: 1.2
+    }
+.calibre10 {
+    display: block;
+    line-height: 1.2;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre11 {
+    display: list-item;
+    font-size: 0.77419em;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-left: 1em;
+    padding-left: 0
+    }
+.calibre12 {
+    display: none
+    }
+.calibre13 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre14 {
+    display: list-item
+    }
+.calibre15 {
+    font-weight: bold
+    }
+.calibre16 {
+    -webkit-hyphens: none;
+    font-family: monospace
+    }
+.calibre17 {
+    display: block;
+    font-family: monospace;
+    line-height: 125%;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    white-space: pre-wrap
+    }
+.calibre18 {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    width: 100%
+    }
+.calibre19 {
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-before: avoid;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre20 {
+    font-style: italic
+    }
+.calibre21 {
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.67em;
+    page-break-after: avoid;
+    text-align: center
+    }
+.calibre22 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre23 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    page-break-inside: avoid;
+    text-indent: 0;
+    width: 90%
+    }
+.calibre24 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    display: table-header-group;
+    vertical-align: middle
+    }
+.calibre25 {
+    display: table-row;
+    page-break-inside: avoid;
+    vertical-align: inherit
+    }
+.calibre26 {
+    display: table-cell;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.calibre27 {
+    display: table-cell;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-align: center;
+    vertical-align: inherit
+    }
+.calibre28 {
+    display: table-row-group;
+    padding-bottom: 40px;
+    vertical-align: middle
+    }
+.calibre29 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.calibre30 {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-align: center;
+    vertical-align: inherit
+    }
+.code {
+    font-size: 0.83333em;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-top: 1em
+    }
+.err {
+    -webkit-hyphens: none;
+    color: #F00;
+    font-family: monospace
+    }
+.figure-wrapper {
+    display: block;
+    text-align: center
+    }
+.highlight {
+    -webkit-hyphens: none;
+    display: block
+    }
+.image {
+    display: inline-block;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    max-width: 90%;
+    text-align: center;
+    width: 288px
+    }
+.image1 {
+    display: inline-block;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    max-width: 90%;
+    text-align: center;
+    width: 287px
+    }
+.image2 {
+    display: inline-block;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    max-width: 90%;
+    text-align: center;
+    width: 187px
+    }
+.image3 {
+    display: inline-block;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    max-width: 90%;
+    text-align: center;
+    width: 256px
+    }
+.k {
+    -webkit-hyphens: none;
+    color: #008000;
+    font-family: monospace;
+    font-weight: bold
+    }
+.kt {
+    -webkit-hyphens: none;
+    color: #B00040;
+    font-family: monospace
+    }
+.linenos {
+    -webkit-hyphens: none;
+    color: gray;
+    font-family: monospace;
+    font-size: 0.9em
+    }
+.na {
+    -webkit-hyphens: none;
+    color: #7D9029;
+    font-family: monospace
+    }
+.nb {
+    -webkit-hyphens: none;
+    color: #008000;
+    font-family: monospace
+    }
+.nc {
+    -webkit-hyphens: none;
+    color: #00F;
+    font-family: monospace;
+    font-weight: bold
+    }
+.nd {
+    -webkit-hyphens: none;
+    color: #A2F;
+    font-family: monospace
+    }
+.nf {
+    -webkit-hyphens: none;
+    color: #00F;
+    font-family: monospace
+    }
+.nv {
+    -webkit-hyphens: none;
+    color: #19177C;
+    font-family: monospace
+    }
+.o {
+    -webkit-hyphens: none;
+    color: #666;
+    font-family: monospace
+    }
+.s {
+    -webkit-hyphens: none;
+    color: #BA2121;
+    font-family: monospace
+    }
+.se {
+    -webkit-hyphens: none;
+    color: #B62;
+    font-family: monospace;
+    font-weight: bold
+    }
+.si {
+    -webkit-hyphens: none;
+    color: #B68;
+    font-family: monospace;
+    font-weight: bold
+    }
+.sr {
+    -webkit-hyphens: none;
+    color: #B68;
+    font-family: monospace
+    }
+.toc {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.w {
+    -webkit-hyphens: none;
+    color: #bbb;
+    font-family: monospace
+    }
+
